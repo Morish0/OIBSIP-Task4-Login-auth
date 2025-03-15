@@ -20,15 +20,6 @@ A simple user authentication system using Flask that allows users to **register,
 
 ---
 
-## 📂 Folder Structure
-/login2 │── app.py # Main Flask app │── config.py # Configurations (if any) │── requirements.txt # Required dependencies │── /static/ # CSS, JS, Images │── /templates/ # HTML files │ ├── home.html │ ├── login.html │ ├── register.html │ ├── dashboard.html │── /instance/ # SQLite database (if using SQLite) │── venv/ # Virtual Environment (not pushed to GitHub) │── README.md # Project Documentation
-
-yaml
-Copy
-Edit
-
----
-
 ## 🛠️ Installation & Setup
 
 ### **1️⃣ Clone the Repository**
